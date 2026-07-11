@@ -1,119 +1,128 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-<h3 align="center">
-AI & ML Student • Full-Stack Developer • Problem Solver
-</h3>
+<h3 align="center">AI & ML Student | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-I build intelligent applications, full-stack web platforms, and practical AI-powered solutions.
+  <em>Building intelligent applications, scalable web platforms, and AI-powered solutions.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuyelu-allipalli-424549285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/samuyeluallipalli">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final-year B.Tech student specializing in Artificial Intelligence and Machine Learning
-
-💻 Full-stack developer working with React, Node.js, Express, and MongoDB
-
-🤖 Interested in Machine Learning, Deep Learning, NLP, LLM applications, and Semantic Search
-
-🧠 Improving my problem-solving skills through Data Structures and Algorithms
-
-🚀 Currently building scalable full-stack and AI-powered applications
-
-🎯 Career interests: Software Engineering, Full-Stack Development, and AI/ML Engineering
+* 🎓 Final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**
+* 💻 Building full-stack applications using the **MERN Stack**
+* 🤖 Interested in **Machine Learning, Deep Learning, NLP, LLMs, and Generative AI**
+* 🧠 Strengthening problem-solving skills through **Data Structures and Algorithms**
+* 🚀 Exploring production-ready **AI-powered full-stack applications**
+* 🎯 Interested in **Software Engineering, Full-Stack Development, and AI/ML Engineering**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-Java • Python • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-### Frontend Development
+### Frontend
 
-React.js • HTML5 • CSS3 • JavaScript • Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+</p>
 
-### Backend Development
+### Backend & Database
 
-Node.js • Express.js • FastAPI • REST APIs • JWT Authentication
-
-### Databases
-
-MongoDB • MongoDB Atlas
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+</p>
 
 ### AI & Machine Learning
 
-Machine Learning • Deep Learning • NLP • TensorFlow • Keras • Scikit-learn
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
 
-### Generative AI & AI Tools
+**Machine Learning • Deep Learning • NLP • LLM Applications • Semantic Search • RAG**
 
-LangChain • FAISS • LLM APIs • Semantic Search • Retrieval-Augmented Generation
+### Tools
 
-### Developer Tools
-
-Git • GitHub • VS Code • Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 DevBoard
+### 🧩 DevBoard — Project Management Platform
 
-A full-stack project management platform designed for developers and small teams.
+A full-stack project management application designed for developers and small teams.
 
 **Key Features**
 
 * Secure authentication and authorization
 * Project and task management
-* Team collaboration features
+* Team collaboration
 * Notifications
 * Dashboard and analytics
 * Cloud-based media management
 
-**Technology Stack**
-
-React.js • Node.js • Express.js • MongoDB • JWT • Socket.io • Cloudinary
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Socket.io • Cloudinary
 
 ---
 
 ### 🤖 AI-Powered Question Answer Generator
 
-An intelligent application for generating and retrieving relevant question-answer content using Large Language Models and semantic search.
+An AI application that generates and retrieves relevant question-answer content using Large Language Models and semantic search.
 
-**Technology Stack**
-
-Python • FastAPI • LangChain • FAISS • LLM APIs
+**Tech Stack:** Python • FastAPI • LangChain • FAISS • LLM APIs
 
 ---
 
-## 📈 Current Focus
-
-🌱 Advanced Data Structures and Algorithms
-
-🧠 Machine Learning and Deep Learning
-
-🤖 LLM-powered application development
-
-⚡ Building production-ready full-stack applications
-
----
-
-## 🤝 Connect With Me
-
-I'm interested in opportunities involving:
-
-* Software Engineering
-* Full-Stack Development
-* AI/ML Engineering
-* Generative AI Applications
-
-Feel free to explore my projects and connect with me for collaboration and opportunities.
-
----
+## 📊 GitHub Activity
 
 <p align="center">
-⭐ Building. Learning. Improving. One commit at a time.
+  <img src="https://github-readme-stats.vercel.app/api?username=samuyeluallipalli&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuyeluallipalli&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Data Structures and Algorithms
+* Machine Learning and Deep Learning
+* LLM-powered application development
+* Production-ready full-stack architecture
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuyelu-allipalli-424549285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel_Allipalli-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/samuyeluallipalli">
+    <img src="https://img.shields.io/badge/GitHub-samuyeluallipalli-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building. Learning. Improving. One commit at a time. 🚀</b>
 </p>
