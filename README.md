@@ -1,3 +1,7 @@
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Samuel Allipalli</h1>
 
 <p align="center">
