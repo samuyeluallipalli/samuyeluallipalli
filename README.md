@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Allipalli</h1>
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Machine Learning Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Open+to+Software+Engineering+Opportunities" />
+</p>
 
 <p align="center">
 Building intelligent software, scalable web applications, and AI-powered solutions.
@@ -11,87 +11,86 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 <p align="center">
 
 <a href="https://portfolio-one-psi-u1b6a9h15a.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samuyelu-allipalli-424549285/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/samuyeluallipalli">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=samuyeluallipalli&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=samuyeluallipalli&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**
+🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
 
-💻 Passionate about building **Full Stack** and **AI-powered** applications
+💻 Passionate about designing scalable **Full Stack** applications and **AI-powered** software.
 
 🤖 Interested in
 
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
 - Large Language Models
 - Generative AI
 
-🧠 Practicing **Data Structures & Algorithms** to strengthen problem-solving skills.
+🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**
 
-🚀 Exploring scalable backend systems and production-ready software architecture.
+⚡ Building production-ready web applications using modern technologies.
 
-🎯 Aspiring Software Engineer passionate about solving real-world problems.
+🎯 Aspiring Software Engineer focused on creating impactful products.
 
 ---
 
 # 🌐 Portfolio
 
-### 🔗 Live Website
+### Live Website
 
 ## https://portfolio-one-psi-u1b6a9h15a.vercel.app/
 
-My portfolio showcases
+### Highlights
 
-- Interactive 3D UI
-- Featured Projects
-- Skills
-- Experience
-- Certifications
-- Resume
-- Contact
+- ✨ Interactive 3D Experience
+- 🚀 Modern UI/UX
+- 💼 Project Showcase
+- 🧠 AI & ML Projects
+- 📜 Certifications
+- 📄 Resume
+- 📬 Contact
 
-Built using
+### Built With
 
-React • Vite • Three.js • React Three Fiber • GSAP • Framer Motion
+React • Vite • Three.js • React Three Fiber • Tailwind CSS • GSAP • Framer Motion
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
 ## 🧩 DevBoard
 
-A modern project management platform built using the MERN Stack.
+A collaborative project management platform built using the MERN Stack.
 
 ### Features
 
 - JWT Authentication
-- Project Management
-- Task Tracking
+- Project & Task Management
 - Team Collaboration
 - Notifications
-- Dashboard Analytics
+- Analytics Dashboard
 - Cloudinary Integration
-- Responsive UI
 
-**Tech**
+**Stack**
 
 React • Node.js • Express • MongoDB • Socket.io • JWT
 
@@ -99,67 +98,67 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 ## 🤖 AI Question Answer Generator
 
-An AI application capable of generating intelligent question-answer pairs using semantic search and Large Language Models.
+An AI-powered application capable of generating intelligent question-answer pairs using semantic search and Large Language Models.
 
-### Tech
+**Stack**
 
 Python • FastAPI • LangChain • FAISS • LLM APIs
 
 ---
 
-## 🌐 3D Portfolio Website
+## 🌌 Interactive 3D Portfolio
 
-A modern developer portfolio with immersive animations and optimized rendering.
+A high-performance portfolio with immersive animations, responsive layouts, and optimized 3D rendering.
 
-### Tech
+**Stack**
 
-React • Three.js • React Three Fiber • Framer Motion • GSAP • Tailwind CSS
+React • Three.js • React Three Fiber • Framer Motion • GSAP
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
-## Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## AI & ML
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
 </p>
 
-Machine Learning • Deep Learning • NLP • LLMs • RAG • Semantic Search
+Machine Learning • Deep Learning • NLP • LLMs • Semantic Search • RAG
 
-## Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -175,24 +174,28 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Semantic Search
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samuyeluallipalli&theme=github-dark&hide_border=true"/>
+
+</p>
+
 ---
 
 # 🎯 Current Focus
 
-✔ Mastering Data Structures & Algorithms
-
-✔ Building AI-powered Full Stack Applications
-
-✔ Learning System Design
-
-✔ Preparing for Software Engineering Roles
+- ✅ Mastering Data Structures & Algorithms
+- ✅ Building AI-powered Full Stack Applications
+- ✅ Learning Scalable Backend Architecture
+- ✅ Exploring LLM & RAG Systems
+- ✅ Preparing for Software Engineering Roles
 
 ---
 
 # 🌱 Currently Learning
 
 - Advanced Java
-- MERN Stack
+- System Design Fundamentals
 - Deep Learning
 - LangChain
 - LLM Applications
@@ -200,7 +203,7 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Semantic Search
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
