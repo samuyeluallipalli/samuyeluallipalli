@@ -170,7 +170,7 @@ Machine Learning • Deep Learning • NLP • LLMs • Semantic Search • RAG
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=samuyeluallipalli&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=samuyeluallipalli&theme=github-grren&hide_border=true"/>
 
 </p>
 
